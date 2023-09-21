@@ -8,7 +8,7 @@ Hello there! I'm Sushma, and I'm thrilled to welcome you to my GitHub profile. T
 - **Occupation**: Aspiring Data Scientist
 - **Interests**: Data Science, Machine Learning, Artificial Intelligence, Data Visualization, Problem Solving
 
-I'm a data enthusiast based in the beautiful city of Davanagere, India. My journey in the world of data science is driven by a deep passion for exploring data, uncovering insights, and using data-driven approaches to solve real-world problems.
+I'm a data enthusiast based in the city of Davanagere, India. My journey in the world of data science is driven by a deep passion for exploring data, uncovering insights, and using data-driven approaches to solve real-world problems.
 
 ## Skills
 
@@ -23,7 +23,7 @@ I'm constantly enhancing my skills and exploring new techniques in the data scie
 
 ## Connect with Me
 
-- **GitHub**: (https)
+- **GitHub**: (https://github.com/sush23-github)
 - **LinkedIn**: (https://www.linkedin.com/in/sushma-b-t-1a6432211)
 - **Email**: subthyr@gmail.com
 
