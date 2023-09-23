@@ -29,12 +29,5 @@ I believe in the power of collaboration and open source. If you come across any 
 ## Thank You🙏🏻
 Thank you for visiting my GitHub profile and taking the time to get to know me.
 
-# My Awesome Project
-
-Welcome to my awesome project! Here are some icons to make things visually appealing:
-
-<img src="icons/github.svg" width="3" height="3" alt="GitHub Icon"> Visit my [GitHub](![image](https://github.com/sush23-github/sush23-github/assets/136837748/4a7c19ed-8ac2-4979-99a7-0ef3e5cebf7c) profile.
-
-<img src="icons/twitter.svg" width="30" height="30" alt="Twitter Icon"> Follow me on [Twitter](https://twitter.com/your-twitter-handle).
 
 
