@@ -22,7 +22,7 @@ I'm Currently a Student at UBDTCE 🏫 based in Davanagere,India.
 - **GitHub**: (https://github.com/sush23-github)
 - **LinkedIn**: (https://www.linkedin.com/in/sushma-b-t-1a6432211)
 - **Email**: subthyr@gmail.com
-  Feel free to reach out if you'd like to collaborate, discuss projects, or simply have a conversation about our shared interests.
+- Feel free to reach out if you'd like to collaborate, discuss projects, or simply have a conversation about our shared interests.
 
 ## Contributions
 I believe in the power of collaboration and open source. If you come across any issues in my repositories or have suggestions for improvement, please don't hesitate to open an issue or send a pull request. Let's learn and grow together!
