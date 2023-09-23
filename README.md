@@ -2,13 +2,14 @@ Hello there! Sushma here👋🏻
 
 I'm Currently a Student at UBDTCE 🏫 based in Davanagere,India.
 
-ABOUT ME
+ABOUT ME:
+
 **Location**: Davanagere, India📍
 **Occupation**: Student👩🏻‍🎓 and Aspiring Data Scientist📊
-
 **Interests**: Data Science, Machine Learning, Artificial Intelligence, Data Visualization.
 
-SKILLS
+SKILLS:
+
 - **Programming Languages**: Python 
 - **Data Analysis**: Pandas, NumPy
 - **Machine Learning**: Scikit-Learn, TensorFlow
