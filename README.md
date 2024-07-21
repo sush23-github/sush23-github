@@ -1,16 +1,16 @@
 Hello there! Sushma here👋🏻
+I'm Currently a Trainee @ TAP ACADEMY
+I Completed my Graduation in BE(Computer Science) at UBDTCE 🏫 based in Davanagere,India.
 
-I'm Currently a Student at UBDTCE 🏫 based in Davanagere,India.
 
+-**Location**: Banglore, India📍
 
--**Location**: Davanagere, India📍
+-**Occupation**: Student👩🏻‍🎓 and Aspiring Software Developer and Data Scientist📊
 
--**Occupation**: Student👩🏻‍🎓 and Aspiring Data Scientist📊
-
--**Interests**: Data Science, Machine Learning, Artificial Intelligence, Data Visualization.
+-**Interests**: JAVA , PYTHON, HTML,CSS ,Data Science,  Artificial Intelligence.
 
 ##SKILLS
-- **Programming Languages**: Python 
+- **Programming Languages**: Python , Java
 - **Data Analysis**: Pandas, NumPy
 - **Machine Learning**: Scikit-Learn, TensorFlow
 - **Data Visualization**: Matplotlib, Seaborn
