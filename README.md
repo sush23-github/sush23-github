@@ -1,5 +1,5 @@
 Hello there! Sushma here👋🏻
-I'm Currently a Trainee @ TAP ACADEMY
+I'm Currently a Trainee Intern @ TAP ACADEMY
 I Completed my Graduation in BE(Computer Science) at UBDTCE 🏫 based in Davanagere,India.
 
 
@@ -7,7 +7,7 @@ I Completed my Graduation in BE(Computer Science) at UBDTCE 🏫 based in Davana
 
 -**Occupation**: Student👩🏻‍🎓 and Aspiring Software Developer and Data Scientist📊
 
--**Interests**: JAVA , PYTHON, HTML,CSS ,Data Science,  Artificial Intelligence.
+-**Interests**: JAVA , PYTHON, HTML,CSS,SQL,Data Science,  Artificial Intelligence.
 
 ##SKILLS
 - **Programming Languages**: Python , Java
