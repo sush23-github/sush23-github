@@ -1,27 +1,29 @@
 Hello there! Sushma here👋🏻
-I'm Currently a Trainee Intern @ TAP ACADEMY
+I'm Currently a MTECH Student @ PES UNIVERSITY
 I Completed my Graduation in BE(Computer Science) at UBDTCE 🏫 based in Davanagere,India.
 
 
--**Location**: Banglore, India📍
+-Location: Banglore, India📍
 
--**Occupation**: Student👩🏻‍🎓 and Aspiring Software Developer and Data Scientist📊
+-Occupation: Student👩🏻‍🎓 and Aspiring Software Developer and Data Scientist📊
 
--**Interests**: JAVA , PYTHON, HTML,CSS,SQL,Data Science,  Artificial Intelligence.
+-Interests: JAVA , PYTHON, HTML,CSS,SQL,Data Science,  Artificial Intelligence.
 
 ##SKILLS
-- **Programming Languages**: Python , Java
-- **Data Analysis**: Pandas, NumPy
-- **Machine Learning**: Scikit-Learn, TensorFlow
-- **Data Visualization**: Matplotlib, Seaborn
-- **Database Management**: SQL
-- **Version Control**: GitHub,
+- Programming Languages: Python , Java 
+- Data Analysis: Pandas, NumPy
+- Machine Learning: Scikit-Learn, TensorFlow
+- Data Visualization: Matplotlib, Seaborn
+- Database Management: SQL, NOSQL
+- Version Control: GitHub,
                        flexible in VS Code.
+- Other Skills : Cyber security,scalable computing 
+  
 
 ## Connect with Me
-- **GitHub**: (https://github.com/sush23-github)
-- **LinkedIn**: (https://www.linkedin.com/in/sushma-b-t-1a6432211)
-- **Email**: subthyr@gmail.com
+- GitHub: (https://github.com/sush23-github)
+- LinkedIn: (https://www.linkedin.com/in/sushma-b-t-1a6432211)
+- Email: subthyr@gmail.com
   
 - Feel free to reach out if you'd like to collaborate, discuss projects, or simply have a conversation about our shared interests.
 
